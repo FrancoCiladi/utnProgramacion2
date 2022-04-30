@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioClases2 - Teclado", "EjercicioClases2 - Teclado\EjercicioClases2 - Teclado.csproj", "{C092A7EB-A137-4F63-8941-79AA0135ABF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C092A7EB-A137-4F63-8941-79AA0135ABF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C092A7EB-A137-4F63-8941-79AA0135ABF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C092A7EB-A137-4F63-8941-79AA0135ABF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C092A7EB-A137-4F63-8941-79AA0135ABF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B093196-7317-4E9F-AE51-E5861A993E83}
+	EndGlobalSection
+EndGlobal
